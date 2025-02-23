@@ -1,0 +1,2 @@
+# ShopSphere
+Repository for Greta
